@@ -34,6 +34,7 @@
 
  */
 
+package practice;
 class Student{
 
     int roll;
